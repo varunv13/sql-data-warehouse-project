@@ -22,7 +22,7 @@ DECLARE
     start_time TIMESTAMP;
     end_time TIMESTAMP;
     load_count INTEGER;
-    base_path CONSTANT TEXT := 'D:/PROJECT/DataEng/sql-data-analytics-project/datasets/csv-files/';
+    base_path CONSTANT TEXT := 'D:/PROJECT/DataEng/sql-data-warehouse-project/datasets/';
     batch_start_time TIMESTAMP;
     batch_end_time TIMESTAMP;
 
